@@ -1,0 +1,3 @@
+var temperatureCelsius = prompt("Entrez votre température en Celsius :")
+var temperatureFarenheil = (temperatureCelsius * 9 / 5) + number(32)
+alert (temperatureCelsius + "°C" = temperatureFarenheil + "°F")
